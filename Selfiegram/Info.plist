@@ -44,6 +44,8 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We&apos;ll use your location to add location info to your selfies</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
@@ -51,5 +53,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>We use the camera to take those sweet ass selfies</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>We use the library to save your sweet ass selfies</string>
 </dict>
 </plist>
